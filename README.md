@@ -71,7 +71,7 @@ Copy code
 git push origin feature/YourFeatureName
 Open a Pull Request.
 💬 Support
-If you encounter any issues or have questions, feel free to open an issue or contact us at support@vegassweep.net.
+If you encounter any issues or have questions, feel free to open an issue or contact us at our websites contact us page.
 
 📄 License
 This project is licensed under the MIT License.
